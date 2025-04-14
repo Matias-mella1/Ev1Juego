@@ -1,0 +1,1 @@
+Este proyecto consiste en un juego interactivo en el que un tanque se desplaza por un mapa y debe apuntar y disparar a cinco objetivos representados por cuadrados. El objetivo principal es lograr impactar cada uno de los objetivos, dependiendo del tipo de dificultad constara mas eliminar al objetivo.
